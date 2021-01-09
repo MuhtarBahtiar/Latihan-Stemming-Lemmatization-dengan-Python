@@ -14,7 +14,7 @@ studied : studi
 
  #Jadi untuk Belajar Stemming & Lemmatization di maksudkan untuk memangkas awalan atau akhiran dari suatu kalimat
  #Dan hasilnya tidak harus ada selalu dalam kamus intinya hanya menyeragamkan.
- #ini biasa kita jumpai saat mengetik di browser yang suka menarankan suatu kata yang kita ketik
+ #ini biasa kita jumpai saat mengetik di browser yang suka menyarankan suatu kata yang kita ketik
 
 
  #CONTOH LAINNYA :
